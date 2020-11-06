@@ -82,31 +82,31 @@
 
 ### Compression and archiving
 
-* bzip2
+* [bzip2](https://sourceware.org/bzip2/)
 * compress
-* gzip
+* [gzip](http://www.gzip.org)
 * tar
-* xz
+* [xz](https://tukaani.org/xz/)
 
 ### Internet
 
-* bind-utils
+* [bind-utils](http://www.linuxfromscratch.org/blfs/view/svn/basicnet/bind-utils.html) (DNS)
 
 ### Other
 
-* file -- darwinsys, OpenBSD
-* patch
-* rsync -- original, OpenBSD
-* ssh, scp -- OpenSSH
+* file -- [darwinsys](https://www.darwinsys.com/file/), [OpenBSD](http://man.openbsd.org/file)
+* [patch](https://savannah.gnu.org/projects/patch/)
+* rsync -- [original](https://rsync.samba.org), [OpenBSD](https://www.openrsync.org)
+* ssh, scp -- [OpenSSH](https://www.openssh.com)
 
 ## C standard libraries
 
-* GNU libc (aka `glibc`)
+* [GNU libc](https://www.gnu.org/software/libc/) (aka `glibc`)
 * BSD libc
-  * DragonFly BSD
-  * FreeBSD
-  * NetBSD
-  * OpenBSD
+  * [DragonFly BSD](https://gitweb.dragonflybsd.org/dragonfly.git/tree/HEAD:/lib/libc)
+  * [FreeBSD](https://svnweb.freebsd.org/base/head/lib/libc/)
+  * [NetBSD](http://cvsweb.netbsd.org/bsdweb.cgi/src/lib/libc/?only_with_tag=MAIN)
+  * [OpenBSD](https://cvsweb.openbsd.org/src/lib/libc/)
 * Lightweight
-  * Bionic libc
-  * musl libc
+  * [Bionic libc](https://android.googlesource.com/platform/bionic/+/master/libc/)
+  * [musl libc](https://musl.libc.org)
