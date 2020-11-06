@@ -88,9 +88,25 @@
 * tar
 * xz
 
+### Internet
+
+* bind-utils
+
 ### Other
 
 * file -- darwinsys, OpenBSD
 * patch
 * rsync -- original, OpenBSD
 * ssh, scp -- OpenSSH
+
+## C standard libraries
+
+* GNU libc (aka `glibc`)
+* BSD libc
+  * DragonFly BSD
+  * FreeBSD
+  * NetBSD
+  * OpenBSD
+* Lightweight
+  * Bionic libc
+  * musl libc
