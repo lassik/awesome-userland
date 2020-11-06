@@ -20,10 +20,10 @@
 
 ### Low-memory versions
 
-* Heirloom
-* Busybox
-* Toybox
-* Suckless S-base
+* [BusyBox](https://www.busybox.net)
+* [Toybox](https://www.landley.net/toybox/)
+* [suckless base](https://core.suckless.org/sbase/)
+* [Heirloom Project](http://heirloom.sourceforge.net)
 
 ### Versions written in memory-safe languages
 
