@@ -25,6 +25,12 @@
 * Toybox
 * Suckless S-base
 
+### Versions written in memory-safe languages
+
+* [go-coreutils](https://github.com/aisola/go-coreutils) (Go)
+* [mesabox](https://github.com/mesalock-linux/mesabox) (Rust)
+* [uutils](https://github.com/uutils) (Rust)
+
 ## Shells
 
 ### Bourne-compatible shells
