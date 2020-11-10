@@ -99,7 +99,7 @@
 * rsync -- [original](https://rsync.samba.org), [OpenBSD](https://www.openrsync.org)
 * ssh, scp -- [OpenSSH](https://www.openssh.com)
 
-## C standard libraries
+## C standard library
 
 * [GNU libc](https://www.gnu.org/software/libc/) (aka `glibc`)
 * BSD libc
