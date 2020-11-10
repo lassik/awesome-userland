@@ -110,3 +110,5 @@
 * Lightweight
   * [Bionic libc](https://android.googlesource.com/platform/bionic/+/master/libc/)
   * [musl libc](https://musl.libc.org)
+  * [diet libc](https://www.fefe.de/dietlibc/)
+  * [uClibc](https://uclibc.org)
