@@ -112,3 +112,4 @@
   * [musl libc](https://musl.libc.org)
   * [diet libc](https://www.fefe.de/dietlibc/)
   * [uClibc](https://uclibc.org)
+  * [Newlib](https://en.wikipedia.org/wiki/Newlib)
