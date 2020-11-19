@@ -80,6 +80,14 @@
 * Flex
 * Bison
 
+### Make build tool
+
+* [POSIX `make`](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html)
+* BSD `make`
+* [GNU make (`gmake`)](https://www.gnu.org/software/make/)
+* [Microsoft Visual Studio `nmake`](https://docs.microsoft.com/en-us/cpp/build/reference/nmake-reference)
+* [Open Watcom `make`](ftp://ftp.openwatcom.org/manuals/current/tools.pdf)
+
 ### Compression and archiving
 
 * [bzip2](https://sourceware.org/bzip2/)
