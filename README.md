@@ -121,3 +121,4 @@
   * [diet libc](https://www.fefe.de/dietlibc/)
   * [uClibc](https://uclibc.org)
   * [Newlib](https://en.wikipedia.org/wiki/Newlib)
+  * [Public Domain C Library](https://pdclib.rootdirectory.de/)
